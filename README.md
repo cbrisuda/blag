@@ -1,2 +1,1 @@
-# portfolio
-portfoli site
+My travel blog and photo portfolio
